@@ -6,6 +6,10 @@
   "external_url": "https://curiousaddys.com/addy/1000",
   "attributes": [
     {
+      "trait_type": "master",
+      "value": "master"
+    },
+    {
       "trait_type": "Background",
       "value": "Pastel Blue"
     },
